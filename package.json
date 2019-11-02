@@ -2,7 +2,7 @@
   "name": "snyknpmexample",
   "version": "1.0.0",
   "dependencies": {
-    "ws": "1.1.0",
+    "ws": "7.2.0",
     "static-eval": "1.0.0",
     "aegir": "12.0.0"
   }
