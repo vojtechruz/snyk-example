@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "ws": "1.1.0",
-    "static-eval": "1.0.0",
+    "static-eval": "2.1.0",
     "aegir": "12.0.0"
   }
 }
