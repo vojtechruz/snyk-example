@@ -1,2 +1,5 @@
 mistune==0.7.2
 kallithea==0.2
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlalchemy>=1.2.18 # not directly required, pinned by Snyk to avoid a vulnerability
+webob>=1.6.0a0 # not directly required, pinned by Snyk to avoid a vulnerability
